@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "正文/【雷亲子】关于时间旅行这件小事.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -37,6 +37,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "64781f215c7e5ddb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d60744de09ba1c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "正文/【雷亲子】关于时间旅行这件小事.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
       },
       {
         "id": "e40d21526dca9bab",
@@ -217,9 +238,9 @@
   "active": "3f556667e48234ee",
   "lastOpenFiles": [
     "正文/【雷亲子】关于时间旅行这件小事.md",
+    "正文/【精修版】关于时间旅行这件小事.md",
     "/正文/【精修版】关于时间旅行这件小事.md",
     "/正文",
-    "正文/【精修版】关于时间旅行这件小事.md",
     "大纲/【大纲】关于时间旅行这件小事.md",
     "/正文/【雷亲子】关于时间旅行这件小事.md",
     "脑洞记录/雷亲子的星战pa.md",
@@ -243,7 +264,6 @@
     "大纲/主神组但现代pa.md",
     "大纲/【大纲】雷亲子的克苏鲁pa.md",
     "大纲/【大纲】弗因弗的克苏鲁pa.md",
-    "大纲/【大纲】【雷亲子】关于500个爸爸出现在我上班的地方这件事是否搞错了什么.md",
     "LICENSE",
     "脑洞记录",
     "正文",
