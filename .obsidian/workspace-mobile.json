@@ -39,27 +39,6 @@
         "currentTab": 1
       },
       {
-        "id": "64781f215c7e5ddb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d60744de09ba1c3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "正文/【精修版】关于时间旅行这件小事.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          }
-        ]
-      },
-      {
         "id": "e40d21526dca9bab",
         "type": "tabs",
         "children": [
