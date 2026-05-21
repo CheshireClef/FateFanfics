@@ -6,7 +6,7 @@
       {
         "id": "50c3411e3f1fa7de",
         "type": "tabs",
-        "dimension": 48.257372654155496,
+        "dimension": 48.32439678284182,
         "children": [
           {
             "id": "0b0824a3a8d07d8d",
@@ -42,7 +42,7 @@
       {
         "id": "9c1c13ec7b7a985d",
         "type": "tabs",
-        "dimension": 51.742627345844504,
+        "dimension": 51.67560321715817,
         "children": [
           {
             "id": "2d51b09969c7254e",
@@ -134,7 +134,7 @@
               "state": {
                 "file": "正文/【精修版】关于时间旅行这件小事.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
