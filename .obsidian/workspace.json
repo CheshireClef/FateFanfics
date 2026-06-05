@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正文/【雷亲子】关于时间旅行这件小事.md",
+                "file": "正文/【精修版】关于时间旅行这件小事.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【雷亲子】关于时间旅行这件小事 的反向链接列表"
+              "title": "【精修版】关于时间旅行这件小事 的反向链接列表"
             }
           },
           {
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd7322150a241374",
+  "active": "2d51b09969c7254e",
   "lastOpenFiles": [
-    "正文/【精修版】关于时间旅行这件小事.md",
     "正文/【雷亲子】关于时间旅行这件小事.md",
+    "正文/【精修版】关于时间旅行这件小事.md",
     "脑洞记录/弗因弗但被宿敌的鬼魂作祟了.md",
     "正文/【弗因弗】被宿敌的鬼魂作祟了！.md"
   ]
