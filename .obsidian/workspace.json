@@ -36,7 +36,8 @@
               "title": "弗因弗但被宿敌的鬼魂作祟了"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9c1c13ec7b7a985d",
@@ -64,14 +65,15 @@
               "type": "markdown",
               "state": {
                 "file": "正文/【弗因弗】被宿敌的鬼魂作祟了！.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "【弗因弗】被宿敌的鬼魂作祟了！"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d51b09969c7254e",
+  "active": "ea3325b39d05dfda",
   "lastOpenFiles": [
-    "正文/【雷亲子】关于时间旅行这件小事.md",
-    "正文/【精修版】关于时间旅行这件小事.md",
     "脑洞记录/弗因弗但被宿敌的鬼魂作祟了.md",
-    "正文/【弗因弗】被宿敌的鬼魂作祟了！.md"
+    "正文/【弗因弗】被宿敌的鬼魂作祟了！.md",
+    "正文/【精修版】关于时间旅行这件小事.md",
+    "正文/【雷亲子】关于时间旅行这件小事.md"
   ]
 }
