@@ -6,7 +6,7 @@
       {
         "id": "50c3411e3f1fa7de",
         "type": "tabs",
-        "dimension": 47.85522788203753,
+        "dimension": 47.58713136729222,
         "children": [
           {
             "id": "cd7322150a241374",
@@ -42,7 +42,7 @@
       {
         "id": "9c1c13ec7b7a985d",
         "type": "tabs",
-        "dimension": 52.14477211796247,
+        "dimension": 52.41286863270778,
         "children": [
           {
             "id": "2d51b09969c7254e",
@@ -86,8 +86,7 @@
               "title": "【大纲】雷亲子的克苏鲁pa"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,16 +281,17 @@
         ],
         "direction": "vertical",
         "x": 8,
-        "y": 6,
-        "width": 540,
-        "height": 801,
+        "y": 5,
+        "width": 543,
+        "height": 805,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "64a8b77a8588c5d1",
+  "active": "2d51b09969c7254e",
   "lastOpenFiles": [
+    "大纲/【大纲】雷亲子的克苏鲁pa.md",
     "正文/【精修版】关于时间旅行这件小事.html",
     "正文/【弗因弗】被宿敌的鬼魂作祟了！.md",
     "正文/【精修版】关于时间旅行这件小事.md",

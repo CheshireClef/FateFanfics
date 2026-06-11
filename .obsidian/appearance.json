@@ -1,5 +1,6 @@
 {
   "baseFontSize": 19,
   "cssTheme": "Typewriter",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "上图东观体"
 }
