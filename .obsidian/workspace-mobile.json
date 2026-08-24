@@ -62,13 +62,7 @@
               "icon": "lucide-file",
               "title": "【雷亲子】克苏鲁pa"
             }
-          }
-        ]
-      },
-      {
-        "id": "5c1c426f24cdb290",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "c7456e6b158738a0",
             "type": "leaf",
