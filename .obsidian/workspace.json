@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2dda4795a5285329",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大纲/细化大纲-雷亲子的克苏鲁pa.md",
+                "file": "正文/正文-雷亲子的克苏鲁pa.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "细化大纲-雷亲子的克苏鲁pa 的反向链接列表"
+              "title": "正文-雷亲子的克苏鲁pa 的反向链接列表"
             }
           },
           {
@@ -236,13 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd70bcfdd25de812",
+  "active": "0b063a7eb072f065",
   "lastOpenFiles": [
+    "大纲/细化大纲-雷亲子的克苏鲁pa.md",
     "大纲/【大纲】雷亲子的克苏鲁pa.md",
     "正文/正文-雷亲子的克苏鲁pa.md",
     "正文/【雷亲子】克苏鲁pa.md",
     "大纲/家里养的奶牛猫在幻梦境当大佬.md",
-    "大纲/细化大纲-雷亲子的克苏鲁pa.md",
     "脑洞记录/弗因弗但被宿敌的鬼魂作祟了.md",
     "正文/交给喵陀罗大人吧！.md",
     "README.md",
